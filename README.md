@@ -1,2 +1,2 @@
-# easysocket
-golang 简单实现socket5 websocket
+# easyhttp
+這個分支實現的是http proxy
